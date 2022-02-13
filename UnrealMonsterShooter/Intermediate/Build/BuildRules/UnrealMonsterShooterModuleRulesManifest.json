@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/madchick/Projects/temp/UnrealMonsterShooter/Source/UnrealMonsterShooter/UnrealMonsterShooter.Build.cs",
+		"/Users/madchick/Projects/temp/UnrealMonsterShooter/Source/UnrealMonsterShooter.Target.cs",
+		"/Users/madchick/Projects/temp/UnrealMonsterShooter/Source/UnrealMonsterShooterEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

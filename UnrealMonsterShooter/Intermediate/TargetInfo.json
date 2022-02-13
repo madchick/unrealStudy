@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealMonsterShooter",
+			"Path": "/Users/madchick/Projects/temp/UnrealMonsterShooter/Source/UnrealMonsterShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealMonsterShooterEditor",
+			"Path": "/Users/madchick/Projects/temp/UnrealMonsterShooter/Source/UnrealMonsterShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

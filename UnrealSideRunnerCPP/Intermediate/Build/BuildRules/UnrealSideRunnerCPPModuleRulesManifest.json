@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/madchick/Projects/temp/UnrealSideRunnerCPP/Source/UnrealSideRunnerCPP/UnrealSideRunnerCPP.Build.cs",
+		"/Users/madchick/Projects/temp/UnrealSideRunnerCPP/Source/UnrealSideRunnerCPP.Target.cs",
+		"/Users/madchick/Projects/temp/UnrealSideRunnerCPP/Source/UnrealSideRunnerCPPEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealSideRunnerCPP",
+			"Path": "/Users/madchick/Projects/temp/UnrealSideRunnerCPP/Source/UnrealSideRunnerCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealSideRunnerCPPEditor",
+			"Path": "/Users/madchick/Projects/temp/UnrealSideRunnerCPP/Source/UnrealSideRunnerCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
